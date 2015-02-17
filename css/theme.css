@@ -1,0 +1,44 @@
+
+/* Google Fonts */
+@import url(http://fonts.googleapis.com/css?family=Lustria);
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+h1, h2, h3, h4, h5, h6, body, p {
+	line-height: 1.5em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Lato", Times;
+}
+
+body {
+	background-image: url(bg.gif);
+	background-color: white;
+}
+
+body, p {
+	font-size: 16px;
+	font-family: "Lustria", Georgia;
+}
+
+p {
+	text-align: justify;
+}
+
+b, strong {
+	color: #333;
+	font-weight: 700;
+}
+
+#index {
+}
+
+#document {
+	margin: 3em;
+}
+
+@media print {
+	#index, .no-print, .no-print * {
+		display: none !important;
+	}
+}

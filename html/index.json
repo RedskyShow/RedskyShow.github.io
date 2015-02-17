@@ -1,0 +1,32 @@
+{
+	"Chapter One": {
+		"Segment One":			"redsky_01.html",
+		"Segment Two":			"redsky_02.html",
+		"Segment Three":		"redsky_03.html",
+		"Segment Four":			"redsky_04.html",
+		"Segment Five":			"redsky_05.html",
+		"Segment Six":			"redsky_06.html",
+		"Segment Seven":		"redsky_07.html",
+		"Segment Eight":		"redsky_08.html",
+		"Segment Nine":			"redsky_09.html",
+		"Segment Ten":			"redsky_10.html",
+		"Segment Eleven":		"redsky_11.html"
+	},
+	"Chapter Two": {
+		"Segment Twelve":		"redsky_12.html",
+		"Segment Thirteen":		"redsky_13.html",
+		"Segment Fourteen":		"redsky_14.html",
+		"Segment Fifteen":		"redsky_15.html",
+		"Segment Sixteen":		"redsky_16.html",
+		"Segment Seventeen":	"redsky_17.html",
+		"Segment Eighteen":		"redsky_18.html",
+		"Segment Nineteen":		"redsky_19.html",
+		"Segment Twenty":		"redsky_20.html",
+		"Segment Twenty One":	"redsky_21.html",
+		"Segment Twenty Two":	"redsky_22.html"
+	},
+	"Chapter Three": {
+		"Segment Twenty Three":	"redsky_23.html",
+		"Segment Twenty Four":	"redsky_24.html"
+	}
+}
